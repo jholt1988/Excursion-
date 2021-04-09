@@ -1,17 +1,18 @@
 h1,h2,h3,h4{
 font-family: Verdana;
 text-align: center;
+color: white;
 }
-.header h1{
+ header{
   font-style: normal;
   font-size: 50px;
-  color: white;
+  e;
 }
-.center h2{
+h2.middle{
   font-weight:  300;
   font-size: 42px;
 }
-   .center h3{
+   h3.middle{
   font-size: 21px;
   color: gray;
 }
@@ -27,7 +28,7 @@ a{
 p{
   align-items: center;
 }
-.copyright h4{
+ h4.copyright{
   color: gray;
   text-align: right;
 }
