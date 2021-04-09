@@ -27,7 +27,7 @@ a{
 p{
   align-items: center;
 }
- aside.copyright h4{
+  #copyright{
   color: gray;
   text-align: right;
 }
