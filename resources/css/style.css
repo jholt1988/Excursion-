@@ -27,7 +27,7 @@ a{
 p{
   align-items: center;
 }
-   span  h4 #copyright{
+   footer {
   color: gray;
   text-align: right;
 }
