@@ -3,15 +3,15 @@ font-family: Verdana;
 text-align: center;
 color: white;
 }
-.header h1{
+h1.header{
   font-style: normal;
-  font-size: 50px
+  font-size: 50px;
 }
-.section h2{
+#center h2{
   font-weight:  300;
   font-size: 42px;
 }
-.section h3{
+#center h3{
   font-size: 21px;
   color: gray;
 }
@@ -31,7 +31,6 @@ p{
   color: gray;
   text-align: right;
 }
-
 .body{
   background-color: black;
   text-align: center;
