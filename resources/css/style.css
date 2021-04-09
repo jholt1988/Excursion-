@@ -27,7 +27,7 @@ a{
 p{
   align-items: center;
 }
- footer.copyright h4{
+ aside.copyright h4{
   color: gray;
   text-align: right;
 }
