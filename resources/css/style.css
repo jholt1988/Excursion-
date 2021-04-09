@@ -3,7 +3,7 @@ font-family: Verdana;
 text-align: center;
 color: white;
 }
-h1.header{
+.header h1{
   font-style: normal;
   font-size: 50px
 }
