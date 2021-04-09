@@ -27,7 +27,7 @@ a{
 p{
   align-items: center;
 }
-  footer h4 {
+  footer h4, &copy; {
   color: gray;
   text-align: right;
 }
