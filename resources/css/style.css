@@ -7,11 +7,11 @@ color: white;
   font-style: normal;
   font-size: 50px;
 }
-h2.middle{
-  font-weight:  300;
+.middle h2{
+  font-weight:300;
   font-size: 42px;
 }
-   h3.middle{
+  .middle h3{
   font-size: 21px;
   color: gray;
 }
