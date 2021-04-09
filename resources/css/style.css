@@ -3,15 +3,15 @@ font-family: Verdana;
 text-align: center;
 color: white;
 }
- header{
+ header h1{
   font-style: normal;
   font-size: 50px;
 }
-.middle h2{
+section.middle h2{
   font-weight:300;
   font-size: 42px;
 }
-  .middle h3{
+  section.middle h3{
   font-size: 21px;
   color: gray;
 }
