@@ -27,6 +27,12 @@ a{
 p{
   align-items: center;
 }
-.aside{
+#copyright{
+  color: gray;
   text-align: right;
+}
+
+.main{
+  background-color: black;
+  text-align: center;
 }
